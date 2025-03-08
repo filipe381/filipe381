@@ -1,5 +1,6 @@
-## Hi there 👋
+# Olá, eu sou Filipe Gama
 
+Sou um estudante de engenharia de software apaixonado por aprender e me aprofundar em tecnologias.
 <!--
 **filipe381/filipe381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
