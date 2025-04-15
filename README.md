@@ -1,17 +1,31 @@
-# Olá, eu sou Filipe Gama
+### Olá! Eu sou o Filipe 👋
 
-Sou um estudante de engenharia de software apaixonado por aprender e me aprofundar em tecnologias.
-<!--
-**filipe381/filipe381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente focado em desenvolvimento Android, automação e análise de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Tecnologias que uso no dia a dia
+
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+</div>
+
+---
+
+#### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=filipe381&show_icons=true&theme=tokyonight&hide=issues&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe381&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+#### 🌐 Onde me encontrar
+- 💼 [LinkedIn](www.linkedin.com/in/filipegama-softwareengineer) *(adicione se tiver)*
+
+<!-- Adicione uma badge de visitas se quiser -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=filipe381&style=flat-square&color=blue) -->
