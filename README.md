@@ -25,7 +25,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente focado e
 ---
 
 #### 🌐 Onde me encontrar
-- 💼 [LinkedIn](www.linkedin.com/in/filipegama-softwareengineer) *(adicione se tiver)*
+- 💼 [LinkedIn](www.linkedin.com/in/filipegama-softwareengineer)
 
 <!-- Adicione uma badge de visitas se quiser -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=filipe381&style=flat-square&color=blue) -->
